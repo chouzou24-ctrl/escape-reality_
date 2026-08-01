@@ -13,13 +13,13 @@ const messages = [
 
     "Estoy muy orgulloso de ti. ⭐",
 
-    "Respira mi amor. Este día también pasará. 🌙",
+    "que linda, guapisima, divina esta mi mujer,Sonríe, mi amor 🌙",
 
     "Te amo incluso en tus días más difíciles. ❤️",
 
     "Si me quieres, siempre estaré tu lugar seguro. 🤍",
 
-    "Un día más cerca de nuestro abrazo. ✨",
+    "estoy seguro de ti, Te elegiré siempre ✨",
 
     "Puedes descansar. No tienes que ser fuerte todo el tiempo. 🤍",
 
@@ -28,6 +28,10 @@ const messages = [
     "Aunque hoy no puedas verlo, todavía hay días bonitos esperándote. 🌸",
 
     "Si hoy no puedes creer en ti, dejame creer por las dos. ⭐"
+
+    "ojala pudieras verte con mis ojos, verias como aunque en tus silencios hay algo que abraza"
+
+    "si algun dia dudas de ti, prométeme que intentaras verte como yo te veo, con mis ojos.❤️"
 
 ];
 
