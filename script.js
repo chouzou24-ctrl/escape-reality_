@@ -9,8 +9,6 @@ if (jar && jarMessage) {
 
 const messages = [
 
-    "Hoy no tienes que poder con todo. 🤍",
-
     "Estoy muy orgulloso de ti. ⭐",
 
     "que linda, guapisima, divina esta mi mujer,Sonríe, mi amor 🌙",
@@ -24,8 +22,6 @@ const messages = [
     "Puedes descansar. No tienes que ser fuerte todo el tiempo. 🤍",
 
     "Un día todo esto será solo un recuerdo lejano.",
-
-    "Aunque hoy no puedas verlo, todavía hay días bonitos esperándote. 🌸",
 
     "Si hoy no puedes creer en ti, dejame creer por las dos. ⭐"
 
