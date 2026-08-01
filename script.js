@@ -23,11 +23,11 @@ const messages = [
 
     "Un día todo esto será solo un recuerdo lejano.",
 
-    "Si hoy no puedes creer en ti, dejame creer por las dos. ⭐"
+    "Si hoy no puedes creer en ti, dejame creer por las dos. ⭐",
 
-    "ojala pudieras verte con mis ojos, verias como aunque en tus silencios hay algo que abraza"
+    "ojala pudieras verte con mis ojos, verias como aunque en tus silencios hay algo que abraza",
 
-    "si algun dia dudas de ti, prométeme que intentaras verte como yo te veo, con mis ojos.❤️"
+    "si algun dia dudas de ti, prométeme que intentaras verte como yo te veo, con mis ojos.❤️",
 
 ];
 
